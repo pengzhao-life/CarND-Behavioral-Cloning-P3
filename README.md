@@ -141,7 +141,7 @@ So the total images provided by Udacity are 8036 x 3 = 24108.
 ![alt text][image1]
 
 
-To capture good driving behavior, I recorded one lap on track one using center lane driving. Here is an example image of center lane driving. They are left image, center, and right respectively:
+To capture good driving behavior, I recorded one lap on track one using center lane driving. Here is an example including left image, center, and right respectively:
 
 Left                       |  Center                   |Right
 :-------------------------:|:-------------------------:|:-------------------------:
