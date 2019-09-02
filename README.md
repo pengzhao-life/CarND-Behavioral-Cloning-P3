@@ -102,7 +102,8 @@ Then I look at the even more powerful model NVIDIA model.
 
 #### 2. Final Model Architecture
 
-The final model architecture (model.py lines 92-110) consisted of a convolution neural network with the following layers and layer sizes
+The final model architecture (model.py lines 92-110) consisted of a convolution neural network with the following layers and layer sizes.
+
 Use python script `model.summary()` to print out the model summary as below. 
 Use `model = load_model('model.h5')` to load saved model if needed.
 ![alt text][image2]
