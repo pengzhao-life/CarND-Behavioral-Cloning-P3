@@ -125,6 +125,7 @@ The parameters number is:
 Take conv2d_1 for example, the parameters number is `5 x 5 x 3 x 24 + 24 = 1824`
 
 In order to gauge how well the model was working, I split my image and steering angle data into a training and validation set. 
+
 To combat the overfitting, I add a dropout=0.25.
 
 The final step was to run the simulator to see how well the car was driving around track one. The vehicle is able to drive autonomously around the track without leaving the road.
