@@ -47,7 +47,7 @@ The model.py file contains the code for training and saving the convolution neur
 #### 1. An appropriate model architecture has been employed
 
 This project is based on [NVIDIA Model](https://devblogs.nvidia.com/deep-learning-self-driving-cars/). 
-The model consists of a convolution neural network with three layers of 5x5 filter, two layers of 3x3 filter, and three fully connected layers (model.py lines 92-110) 
+The model consists of a convolution neural network with three layers of 5x5 filter, two layers of 3x3 filter, and three fully connected layers (model.py lines 92-110). 
 The model includes RELU layers to introduce nonlinearity (code line 99-103), and the data is normalized in the model using a Keras lambda layer (code line 97). 
 
 #### 2. Attempts to reduce overfitting in the model
