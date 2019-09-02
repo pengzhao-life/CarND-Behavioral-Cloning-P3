@@ -112,7 +112,7 @@ This is how to understand the output size and parameters number:
 
 The original image is 160x320x3. It turns into 65x320x3 after cropping 70 on the top and 25 on the bottom.
 
-The output size for each layer can be computed with as a function of the input volume size (W), 
+The output size for each layer can be computed as a function of the input volume size (W), 
 the receptive field size of the Conv Layer neurons (F), 
 the stride with which they are applied (S), 
 and the amount of zero padding used (P) on the border, i.e. `(W−F+2P)/S+1`.
